@@ -15,8 +15,6 @@ Then use KDTree querys:
 
 ```
 tree.query_ball_point( (3, 3), 10 )
-<map object at ...>
-list(<map object at ...>)
 ['1', 2, '2']
 ```
 
